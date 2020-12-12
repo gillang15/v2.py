@@ -1,1 +1,1 @@
-# v2.py
+Gunakan Dengan Bijak 
